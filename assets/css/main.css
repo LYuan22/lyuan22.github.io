@@ -2699,7 +2699,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #daf;
-		color: #d2f2e9;
+		color: #a5f;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2722,7 +2722,7 @@ input, select, textarea {
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: #a5f;
 		}
 
 			#header a:hover {
@@ -2823,7 +2823,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 3px #daf;
 	}
 
 		#main > section > .container {
@@ -3028,13 +3028,13 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
+				background: #daf;
 				color: #fff;
 				min-width: 320px;
 			}
 
 				#titleBar .title {
-					color: #fff;
+					color:#fff;
 					display: block;
 					font-weight: 700;
 					height: 44px;
