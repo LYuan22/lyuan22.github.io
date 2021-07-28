@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #daf !important;
+			color: #d5f !important;
 		}
 
 	strong, b {
@@ -3034,7 +3034,7 @@ input, select, textarea {
 			}
 
 				#titleBar .title {
-					color:#fff;
+					color: #fff;
 					display: block;
 					font-weight: 700;
 					height: 44px;
