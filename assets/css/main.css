@@ -2823,7 +2823,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 3px #daf;
+		border-top: solid 3px #ddd;
 	}
 
 		#main > section > .container {
